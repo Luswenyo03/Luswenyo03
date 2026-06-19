@@ -1,6 +1,6 @@
 # Hi, I'm Emkay 👨‍💻
 
-System Architect • Software Developer • Full-Stack Engineer
+System Architect • Software Engineer • Full-Stack Developer
 
 ---
 
@@ -22,24 +22,42 @@ System Architect • Software Developer • Full-Stack Engineer
 
 ---
 
-## 🚀 Current Work
+## 🏗️ Architecture & Engineering Focus
 
-🎧 Music Selling Platform (Mobile App + API)
-
-- 📱 Frontend: https://github.com/Luswenyo03/BEAT_SHOP_MOBILE
-- 🔌 Backend API: https://github.com/Luswenyo03/MK-BEATS-API
-
----
-
-## 🧠 Focus
-
-- System architecture & scalable backend systems  
-- API design & microservices thinking  
-- Building real-world SaaS / platforms  
-- Clean, maintainable system design  
+- 🧩 System Design & Scalable Backend Architecture  
+- 🔗 API Design (RESTful systems & modular services)  
+- ⚡ Performance-Oriented Development  
+- 🧱 Clean Code & Maintainable System Structure  
+- ☁️ CI/CD Pipelines & Automated Deployments  
+- 🐳 Containerization & Environment Consistency (Docker mindset)  
+- 🔐 Secure API & System Design Principles  
 
 ---
 
-## 📌 Philosophy
+## 🚀 Projects
 
-> “Build systems that scale, not just apps that work.”
+### 🎧 Beat Shop – Music Selling Platform
+
+A full-stack music marketplace system (mobile frontend + backend API)
+
+- 📱 Mobile App (Frontend):  
+  https://github.com/Luswenyo03/BEAT_SHOP_MOBILE
+
+- 🔌 Backend API (Laravel-based):  
+  https://github.com/Luswenyo03/MK-BEATS-API
+
+**Focus:** scalable API design, modular architecture, and media distribution workflows
+
+---
+
+## ⚙️ Dev Practices
+
+- CI/CD-first development mindset  
+- Separation of concerns (frontend / backend / services)  
+- Version control with Git workflows  
+- REST API structuring & standardization  
+- Environment-based configuration (dev / staging / production)  
+
+---
+
+> “Good software is not just built — it is engineered.”

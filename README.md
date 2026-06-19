@@ -1,4 +1,4 @@
-# Hi
+# Hi, I'm Emkay 👨‍💻
 
 System Architect • Software Engineer • Full-Stack & Mobile Developer
 
@@ -29,11 +29,12 @@ System Architect • Software Engineer • Full-Stack & Mobile Developer
 - 🧩 System Design & Scalable Distributed Architectures  
 - 📱 Cross-Platform Mobile Development (Flutter / Dart)  
 - 🔗 RESTful API Design & Service-Oriented Architecture  
-- ⚡ Performance Optimization & Efficient Backend Design  
-- 🧱 Clean Architecture, SOLID Principles & Maintainable Codebases  
-- ☁️ CI/CD Pipelines (Automated Build, Test & Deployment Workflows)  
-- 🐳 Containerization & Environment Parity (Docker mindset)  
-- 🔐 Secure API Design & Authentication Flows  
+- ⚡ Performance Optimization & Backend Engineering  
+- 🧱 Clean Architecture, SOLID Principles & Maintainable Systems  
+- ☁️ CI/CD Pipelines (Build, Test & Deployment Automation)  
+- 🚀 Deployment Engineering & Release Management  
+- 🐳 Containerization & Environment Consistency (Docker mindset)  
+- 🔐 Secure API Design & Authentication Systems  
 
 ---
 
@@ -41,39 +42,64 @@ System Architect • Software Engineer • Full-Stack & Mobile Developer
 
 ### 🎧 Beat Shop – Music Selling Platform
 
-A full-stack music marketplace system designed with a modular architecture (mobile client + backend API).
+Full-stack music marketplace system built with modular architecture.
 
-#### 📱 Mobile Application
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Frontend (Mobile App)
 - Built with **Flutter (Dart)**
-- Cross-platform Android & iOS support
-- Focus on smooth UI/UX and media browsing experience
+- Cross-platform Android & iOS
+- Smooth UI/UX for music browsing & playback
+- Mobile-first architecture
 
 🔗 https://github.com/Luswenyo03/BEAT_SHOP_MOBILE
 
----
+</td>
 
-#### 🔌 Backend API
+<td width="50%" valign="top">
+
+### 🔌 Backend (API)
 - Built with **Node.js**
 - RESTful API architecture
-- Handles authentication, music catalog, and transaction logic
+- Authentication & user management
+- Music catalog & transaction handling
+- Scalable backend design
 
 🔗 https://github.com/Luswenyo03/MK-BEATS-API
 
+</td>
+</tr>
+</table>
+
 ---
 
-**Architecture Focus:**
-Clear separation of concerns between frontend and backend, scalable API design, and mobile-first system thinking.
+**🧠 Architecture Focus:**
+Clear separation of frontend and backend, scalable API design, and mobile-first system thinking.
+
+---
+
+## ⚙️ Deployment & Infrastructure
+
+- 🌐 Backend & API deployment (Node.js / Laravel systems)
+- 🖥️ Linux server setup & basic system administration
+- 🔁 CI/CD pipelines for automated build & deployment
+- 📦 Environment management (dev / staging / production)
+- ⚙️ Reverse proxy concepts (Nginx mindset)
+- 🔐 SSL / HTTPS configuration awareness
+- 📡 Hosting APIs with uptime & reliability focus
 
 ---
 
 ## ⚙️ Development Practices
 
 - CI/CD-first engineering workflow  
-- Git-based version control & branching strategies  
-- Separation of frontend, backend & service layers  
-- REST API structuring & versioning principles  
-- Environment-based configuration (dev / staging / production)  
-- Modular and reusable code design  
+- Git version control & branching strategies  
+- Modular system architecture (frontend / backend separation)  
+- REST API structuring & versioning  
+- Clean, reusable, maintainable code design  
+- Environment-based configuration management  
 
 ---
 

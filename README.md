@@ -1,4 +1,4 @@
-# Hi, I'm Emkay 👨‍💻
+# Hi
 
 System Architect • Software Engineer • Full-Stack & Mobile Developer
 
@@ -18,7 +18,7 @@ System Architect • Software Engineer • Full-Stack & Mobile Developer
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Web
+### Web Fundamentals
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -26,14 +26,14 @@ System Architect • Software Engineer • Full-Stack & Mobile Developer
 
 ## 🏗️ Architecture & Engineering Focus
 
-- 🧩 System Design & Scalable Backend Architecture  
-- 📱 Cross-Platform Mobile App Development (Flutter)  
-- 🔗 API Design (RESTful systems & modular services)  
-- ⚡ Performance-Oriented Development  
-- 🧱 Clean Code & Maintainable System Structure  
-- ☁️ CI/CD Pipelines & Automated Deployments  
-- 🐳 Containerization & Environment Consistency (Docker mindset)  
-- 🔐 Secure API & System Design Principles  
+- 🧩 System Design & Scalable Distributed Architectures  
+- 📱 Cross-Platform Mobile Development (Flutter / Dart)  
+- 🔗 RESTful API Design & Service-Oriented Architecture  
+- ⚡ Performance Optimization & Efficient Backend Design  
+- 🧱 Clean Architecture, SOLID Principles & Maintainable Codebases  
+- ☁️ CI/CD Pipelines (Automated Build, Test & Deployment Workflows)  
+- 🐳 Containerization & Environment Parity (Docker mindset)  
+- 🔐 Secure API Design & Authentication Flows  
 
 ---
 
@@ -41,25 +41,39 @@ System Architect • Software Engineer • Full-Stack & Mobile Developer
 
 ### 🎧 Beat Shop – Music Selling Platform
 
-Full-stack music marketplace system (Flutter mobile app + backend API)
+A full-stack music marketplace system designed with a modular architecture (mobile client + backend API).
 
-- 📱 Mobile App (Flutter):  
-  https://github.com/Luswenyo03/BEAT_SHOP_MOBILE
+#### 📱 Mobile Application
+- Built with **Flutter (Dart)**
+- Cross-platform Android & iOS support
+- Focus on smooth UI/UX and media browsing experience
 
-- 🔌 Backend API (Laravel):  
-  https://github.com/Luswenyo03/MK-BEATS-API
-
-**Focus:** scalable architecture, API design, and mobile-first user experience
+🔗 https://github.com/Luswenyo03/BEAT_SHOP_MOBILE
 
 ---
 
-## ⚙️ Dev Practices
+#### 🔌 Backend API
+- Built with **Node.js**
+- RESTful API architecture
+- Handles authentication, music catalog, and transaction logic
 
-- CI/CD-first development mindset  
-- Separation of concerns (frontend / backend / services)  
-- Version control with Git workflows  
-- REST API structuring & standardization  
+🔗 https://github.com/Luswenyo03/MK-BEATS-API
+
+---
+
+**Architecture Focus:**
+Clear separation of concerns between frontend and backend, scalable API design, and mobile-first system thinking.
+
+---
+
+## ⚙️ Development Practices
+
+- CI/CD-first engineering workflow  
+- Git-based version control & branching strategies  
+- Separation of frontend, backend & service layers  
+- REST API structuring & versioning principles  
 - Environment-based configuration (dev / staging / production)  
+- Modular and reusable code design  
 
 ---
 

@@ -15,43 +15,67 @@
 ---
 
 ### 📧 Nova Mail Platform
+
+<table>
+<tr>
+<td width="220" valign="top">
+<img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=400&q=80" width="210" style="border-radius:8px" alt="Nova Mail" />
+</td>
+<td valign="top">
+
 > A complete professional email ecosystem for businesses, hosting providers, and organisations requiring custom-domain email services.
-
-<img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=900&q=80" width="100%" style="border-radius:8px" alt="Nova Mail Platform" />
-
-<br/>
 
 | Repository | Description | Stack |
 |---|---|---|
-| [Nova Email Client](https://github.com/Devlapan-technologies/NOVA-EMAIL-CLIENT) | Modern web-based email client — inbox, composition, folder management | React · JavaScript · REST API |
-| [Nova Mail API](https://github.com/Devlapan-technologies/NOVA-MAIL-API) | Backend powering the Nova Mail ecosystem — auth, mailbox, domain integration | Laravel · PHP · MySQL |
+| [Nova Email Client](https://github.com/Devlapan-technologies/NOVA-EMAIL-CLIENT) | Web-based email client — inbox, composition, folder management | React · JS · REST |
+| [Nova Mail API](https://github.com/Devlapan-technologies/NOVA-MAIL-API) | Backend — auth, mailbox management, domain integration | Laravel · PHP · MySQL |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🔐 Universal Login System (ULS)
+
+<table>
+<tr>
+<td width="220" valign="top">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&q=80" width="210" style="border-radius:8px" alt="ULS" />
+</td>
+<td valign="top">
+
 > Centralised SSO and authentication platform for multi-application environments.
-
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80" width="100%" style="border-radius:8px" alt="Universal Login System" />
-
-<br/>
 
 | Repository | Description | Stack |
 |---|---|---|
-| [ULS V1](https://github.com/Devlapan-technologies/ULS-V1) | Single Sign-On, role/permission management, token-based auth across services | Laravel · PHP · MySQL |
+| [ULS V1](https://github.com/Devlapan-technologies/ULS-V1) | Single Sign-On, role/permission management, token-based auth | Laravel · PHP · MySQL |
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🎧 Beat Shop — Music Marketplace
+
+<table>
+<tr>
+<td width="220" valign="top">
+<img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400&q=80" width="210" style="border-radius:8px" alt="Beat Shop" />
+</td>
+<td valign="top">
+
 > Full-stack platform connecting music producers, artists, and buyers.
-
-<img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=900&q=80" width="100%" style="border-radius:8px" alt="Beat Shop Music Marketplace" />
-
-<br/>
 
 | Repository | Description | Stack |
 |---|---|---|
 | [Beat Shop Mobile](https://github.com/Luswenyo03/BEAT_SHOP_MOBILE) | Cross-platform music discovery and browsing app | Flutter · Dart |
-| [MK Beats API](https://github.com/Luswenyo03/MK-BEATS-API) | Marketplace backend — auth, catalogue management, REST APIs | Node.js · JavaScript |
+| [MK Beats API](https://github.com/Luswenyo03/MK-BEATS-API) | Marketplace backend — auth, catalogue, REST APIs | Node.js · JS |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,7 +100,5 @@ Separation of concerns. Long-term maintainability. Business-oriented system desi
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4D0063&height=100&section=footer" width="100%" />
-
 </div>

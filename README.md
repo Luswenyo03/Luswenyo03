@@ -1,18 +1,16 @@
 <div align="center">
 
-# Emkay
-**System Architect · Full-Stack Engineer · Mobile Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4D0063&height=200&section=header&text=Emkay&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20Architect%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=ddaaff" width="100%" />
 
-Designing and deploying scalable software systems — from mobile apps and web platforms to APIs, authentication services, and enterprise solutions.
+<br/>
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://php.net)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docker.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,nodejs,dart,mysql,docker,nginx,linux&perline=6" />
+
+<br/><br/>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luswenyo03&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Luswenyo03)
+&nbsp;&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luswenyo03&theme=tokyonight&hide_border=true&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc&background=0D1117)](https://github.com/Luswenyo03)
 
 </div>
 
@@ -63,12 +61,14 @@ Containerisation (Docker)                ·    Business & Enterprise Systems
 
 ## 🧠 Philosophy
 
-> *"Good software is not just built — it is engineered."*
+> *"Good software is not just built, it is engineered."*
 
-I believe in **separation of concerns**, **long-term maintainability**, and **business-oriented system design**. Every line of code should serve a purpose. Every system should be ready to scale.
+Separation of concerns. Long-term maintainability. Business-oriented system design. Every line of code should serve a purpose. Every system should be ready to scale.
 
 ---
 
 <div align="center">
-<sub>Built with intention · Deployed with discipline</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4D0063&height=100&section=footer" width="100%" />
+
 </div>

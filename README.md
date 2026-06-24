@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4D0063&height=200&section=header&text=Emkay&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=System%20Architect%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=ddaaff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4D0063&height=200&section=header&text=Luswenyo%20Mafenyeho&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=System%20Architect%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=ddaaff" width="100%" />
 
 <br/>
 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,flutter,nodejs,dart,mysql,docker,nginx,linux&perline=6" />
-
-<br/><br/>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luswenyo03&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb86fc&icon_color=bb86fc&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Luswenyo03)
-&nbsp;&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luswenyo03&theme=tokyonight&hide_border=true&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc&background=0D1117)](https://github.com/Luswenyo03)
 
 </div>
 
@@ -18,8 +12,14 @@
 
 ## 🚀 Featured Projects
 
+---
+
 ### 📧 Nova Mail Platform
 > A complete professional email ecosystem for businesses, hosting providers, and organisations requiring custom-domain email services.
+
+<img src="https://images.unsplash.com/photo-1596526131083-e8c633c948d2?w=900&q=80" width="100%" style="border-radius:8px" alt="Nova Mail Platform" />
+
+<br/>
 
 | Repository | Description | Stack |
 |---|---|---|
@@ -31,6 +31,10 @@
 ### 🔐 Universal Login System (ULS)
 > Centralised SSO and authentication platform for multi-application environments.
 
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80" width="100%" style="border-radius:8px" alt="Universal Login System" />
+
+<br/>
+
 | Repository | Description | Stack |
 |---|---|---|
 | [ULS V1](https://github.com/Devlapan-technologies/ULS-V1) | Single Sign-On, role/permission management, token-based auth across services | Laravel · PHP · MySQL |
@@ -39,6 +43,10 @@
 
 ### 🎧 Beat Shop — Music Marketplace
 > Full-stack platform connecting music producers, artists, and buyers.
+
+<img src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=900&q=80" width="100%" style="border-radius:8px" alt="Beat Shop Music Marketplace" />
+
+<br/>
 
 | Repository | Description | Stack |
 |---|---|---|
@@ -61,7 +69,7 @@ Containerisation (Docker)                ·    Business & Enterprise Systems
 
 ## 🧠 Philosophy
 
-> *"Good software is not just built, it is engineered."*
+> *"Good software is not just built — it is engineered."*
 
 Separation of concerns. Long-term maintainability. Business-oriented system design. Every line of code should serve a purpose. Every system should be ready to scale.
 
